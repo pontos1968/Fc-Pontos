@@ -1,1 +1,1 @@
-FC Pontos Herrenfotos: Alle drei Dateien index.html, herren-mannschaft-1.jpg, herren-mannschaft-2.jpg in das Hauptverzeichnis des GitHub-Repositories hochladen. Vorhandene andere Dateien nicht löschen.
+Alle drei Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen. Bestehende Herrenfotos und andere Dateien nicht löschen. Vor öffentlicher Veröffentlichung der Jugendfotos die erforderlichen Einwilligungen der Sorgeberechtigten sicherstellen.
