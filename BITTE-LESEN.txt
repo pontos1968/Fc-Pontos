@@ -1,1 +1,2 @@
-Alle drei Dateien in das Hauptverzeichnis des GitHub-Repositories hochladen. Bestehende Herrenfotos und andere Dateien nicht löschen. Vor öffentlicher Veröffentlichung der Jugendfotos die erforderlichen Einwilligungen der Sorgeberechtigten sicherstellen.
+FC Pontos München – Galerie Update
+Alle Dateien in diesem Ordner in das Stammverzeichnis des GitHub-Repositories hochladen. Bestehende Dateien ersetzen. Die Galerie befindet sich im Menü unter „Galerie“.
