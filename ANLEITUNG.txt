@@ -1,0 +1,23 @@
+FC PONTOS MÜNCHEN – PWA FÜR ANDROID UND iPHONE
+
+Diese ZIP enthält nur neue/geänderte Dateien. Vorhandene Bilder, Galerie, Vorstand und weitere Seiten NICHT löschen.
+
+1. ZIP entpacken.
+2. GitHub-Repository pontos1968/Fc-Pontos öffnen.
+3. Add file > Upload files: index.html, manifest.webmanifest, sw.js und die drei pwa-icon-*.png hochladen.
+4. Commit changes. Bestehende index.html ersetzen.
+5. Nach GitHub-Pages-Deployment www.fcpontos.de im Browser öffnen.
+
+Android (Chrome): Menü > App installieren oder Zum Startbildschirm hinzufügen.
+iPhone (Safari): Teilen > Zum Home-Bildschirm > Hinzufügen.
+
+Die App funktioniert hauptsächlich online; nur die Startseite kann ggf. offline angezeigt werden.
+Die PWA ist keine Veröffentlichung im App Store/Play Store.
+Die Jugendfotos werden durch dieses Paket NICHT neu hochgeladen und NICHT offline zwischengespeichert.
+Bereits vorhandene Jugendfotos in galerie.html oder im Repository müssen separat entfernt werden.
+
+NEU: Installationsbereich auf der Startseite (Deutsch/Griechisch), Menüpunkt und Android-Installationsbutton.
+Alle Dateien aus dieser ZIP ins Stammverzeichnis des GitHub-Repositories hochladen.
+Hinweis: Die Jugendgalerie ist eine separate Datei (galerie.html) und wird von diesem Paket nicht verändert.
+
+Update: App-Installationsbereich jetzt unter dem Elfmeterschiessen im Vereins-Center. Kein Menuepunkt. Zum Aufklappen antippen.
